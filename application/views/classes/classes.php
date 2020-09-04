@@ -19,7 +19,7 @@ max-height: 400px;
 			</div>
 			<div class="btn-group" role="group" aria-label="toolbar" style="padding-bottom: 15px;">
 				<button type="button" aria-label="toolbar" class="btn btn-default fa fa-plus" onclick="addCentre()"></button>
-				<button type="button" aria-label="toolbar" class="btn btn-default fa fa-edit" onclick="editCentre()"> <span style="font-family: sans-serif">Edit selected centre</span></button>
+				<button type="button" aria-label="toolbar" class="btn btn-default fa fa-edit" onclick="editCentre()"> <span style="font-family: sans-serif">Edit selected class</span></button>
 			</div>
 		</div>
 	</div>
