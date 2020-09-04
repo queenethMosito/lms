@@ -1,5 +1,7 @@
-Setup on local machine
+NB: 1.rename folder from lms-master to lms 
+    2. Git keeps ignoring the .htaccess file so i added it to a zip file, please just remove from zip file and save under the root path( lms/.htaccess)
 
+Setup on local machine
 1 Database setup
 Username: dev
 Password: dev
