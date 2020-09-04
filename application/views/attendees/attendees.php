@@ -123,7 +123,7 @@ $( document ).ready(function() {
 	 var query=$("#q").val();
 	 $("#query").val(query);
 });
-
+var lastIndex = 0;
 $("#q").keyup(function() {
 	var myIndex = ++lastIndex;
 	setTimeout(function(){
