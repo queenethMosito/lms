@@ -1,0 +1,764 @@
+[01-Oct-2018 12:36:04 UTC] PHP Warning:  require_once(system/bootstrap.inc.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 12:36:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'system/bootstrap.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:17:34 UTC] PHP Warning:  require_once(/system/bootstrap.inc.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:17:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/system/bootstrap.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:18:32 UTC] PHP Warning:  require_once(/system/bootstrap.inc.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:18:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/system/bootstrap.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:18:48 UTC] PHP Warning:  require_once(/system/bootstrap.inc.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:18:48 UTC] PHP Fatal error:  require_once(): Failed opening required '/system/bootstrap.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:18:55 UTC] PHP Warning:  require_once(/system/bootstrap.inc.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:18:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/system/bootstrap.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:23:57 UTC] PHP Warning:  require_once(/system/bootstrap.inc.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:23:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/system/bootstrap.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:38:19 UTC] PHP Warning:  require_once(/system/bootstrap.inc.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:38:19 UTC] PHP Fatal error:  require_once(): Failed opening required '/system/bootstrap.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:56:40 UTC] PHP Warning:  require_once(/system/bootstrap.inc.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 13:56:40 UTC] PHP Fatal error:  require_once(): Failed opening required '/system/bootstrap.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 14:03:06 UTC] PHP Warning:  require_once(/system/bootstrap.inc.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 14:03:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/system/bootstrap.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 14:04:43 UTC] PHP Warning:  require_once(/system/bootstrap.inc.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 14:04:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/system/bootstrap.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 14:05:25 UTC] PHP Warning:  require_once(/system/bootstrap.inc.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 14:05:25 UTC] PHP Fatal error:  require_once(): Failed opening required '/system/bootstrap.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 14:05:28 UTC] PHP Warning:  require_once(/system/bootstrap.inc.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 14:05:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/system/bootstrap.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/index.php on line 5
+[01-Oct-2018 16:06:21 Africa/Johannesburg] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'oqm_admin'@'localhost' (using password: YES) in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 61
+[01-Oct-2018 16:06:21 Africa/Johannesburg] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:06:21 Africa/Johannesburg] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:06:21 Africa/Johannesburg] PHP Notice:  Trying to get property 'rows' of non-object in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 22
+[01-Oct-2018 16:06:21 Africa/Johannesburg] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 23
+[01-Oct-2018 16:11:54 Africa/Johannesburg] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:11:54 Africa/Johannesburg] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:11:54 Africa/Johannesburg] PHP Notice:  Trying to get property 'rows' of non-object in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 22
+[01-Oct-2018 16:11:54 Africa/Johannesburg] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 23
+[01-Oct-2018 16:11:54 Africa/Johannesburg] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:11:54 Africa/Johannesburg] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:11:54 Africa/Johannesburg] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:11:54 Africa/Johannesburg] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:11:54 Africa/Johannesburg] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:11:54 Africa/Johannesburg] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:12:04 Africa/Johannesburg] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:12:04 Africa/Johannesburg] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:12:04 Africa/Johannesburg] PHP Notice:  Trying to get property 'rows' of non-object in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 22
+[01-Oct-2018 16:12:04 Africa/Johannesburg] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 23
+[01-Oct-2018 16:12:04 Africa/Johannesburg] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:12:04 Africa/Johannesburg] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:12:04 Africa/Johannesburg] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:12:04 Africa/Johannesburg] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:12:04 Africa/Johannesburg] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:12:04 Africa/Johannesburg] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:21:44 Africa/Johannesburg] PHP Warning:  include_once(Mail.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 275
+[01-Oct-2018 16:21:44 Africa/Johannesburg] PHP Warning:  include_once(): Failed opening 'Mail.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 275
+[01-Oct-2018 16:21:44 Africa/Johannesburg] PHP Warning:  include_once(Mail/mime.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 276
+[01-Oct-2018 16:21:44 Africa/Johannesburg] PHP Warning:  include_once(): Failed opening 'Mail/mime.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 276
+[01-Oct-2018 16:21:44 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Class 'Mail_mime' not found in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php:278
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/functions.inc.php(299): Email_Helper->Send()
+#1 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(73): sendQuotationEmail('admin@oqm.co.za', 'OQ Freelancing', 'OQ FREELANCING:...', '\r\n\t\t\t\t\t\t<p> You...')
+#2 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->quotationAction()
+#3 {main}
+  thrown in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 278
+[01-Oct-2018 16:29:21 Africa/Johannesburg] PHP Warning:  include_once(Mail.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 275
+[01-Oct-2018 16:29:21 Africa/Johannesburg] PHP Warning:  include_once(): Failed opening 'Mail.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 275
+[01-Oct-2018 16:29:21 Africa/Johannesburg] PHP Warning:  include_once(Mail/mime.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 276
+[01-Oct-2018 16:29:21 Africa/Johannesburg] PHP Warning:  include_once(): Failed opening 'Mail/mime.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 276
+[01-Oct-2018 16:29:21 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Class 'Mail_mime' not found in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php:278
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/functions.inc.php(299): Email_Helper->Send()
+#1 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(73): sendQuotationEmail('admin@oqm.co.za', 'OQ Freelancing', 'OQ FREELANCING:...', '\r\n\t\t\t\t\t\t<p> You...')
+#2 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->quotationAction()
+#3 {main}
+  thrown in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 278
+[01-Oct-2018 16:45:18 Africa/Johannesburg] PHP Warning:  include_once(Mail.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 275
+[01-Oct-2018 16:45:18 Africa/Johannesburg] PHP Warning:  include_once(): Failed opening 'Mail.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 275
+[01-Oct-2018 16:45:18 Africa/Johannesburg] PHP Warning:  include_once(Mail/mime.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 276
+[01-Oct-2018 16:45:18 Africa/Johannesburg] PHP Warning:  include_once(): Failed opening 'Mail/mime.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 276
+[01-Oct-2018 16:45:18 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Class 'Mail_mime' not found in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php:278
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/functions.inc.php(299): Email_Helper->Send()
+#1 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(73): sendQuotationEmail('admin@oqm.co.za', 'OQ Freelancing', 'OQ FREELANCING:...', '\r\n\t\t\t\t\t\t<p> You...')
+#2 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->quotationAction()
+#3 {main}
+  thrown in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 278
+[01-Oct-2018 16:50:19 Africa/Johannesburg] PHP Warning:  include_once(/home/isoiotpv5yku/phpMail.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 275
+[01-Oct-2018 16:50:19 Africa/Johannesburg] PHP Warning:  include_once(): Failed opening '/home/isoiotpv5yku/phpMail.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 275
+[01-Oct-2018 16:50:19 Africa/Johannesburg] PHP Warning:  include_once(/home/isoiotpv5yku/phpMail/mime.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 276
+[01-Oct-2018 16:50:19 Africa/Johannesburg] PHP Warning:  include_once(): Failed opening '/home/isoiotpv5yku/phpMail/mime.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 276
+[01-Oct-2018 16:50:19 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Class 'Mail_mime' not found in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php:278
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/functions.inc.php(299): Email_Helper->Send()
+#1 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(73): sendQuotationEmail('admin@oqm.co.za', 'OQ Freelancing', 'OQ FREELANCING:...', '\r\n\t\t\t\t\t\t<p> You...')
+#2 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->quotationAction()
+#3 {main}
+  thrown in /home/isoiotpv5yku/public_html/system/helpers/email.inc.php on line 278
+[01-Oct-2018 16:51:56 Africa/Johannesburg] PHP Warning:  require_once(Mail/mimePart.php): failed to open stream: No such file or directory in /home/isoiotpv5yku/php/Mail/mime.php on line 63
+[01-Oct-2018 16:51:56 Africa/Johannesburg] PHP Fatal error:  require_once(): Failed opening required 'Mail/mimePart.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/isoiotpv5yku/php/Mail/mime.php on line 63
+[01-Oct-2018 16:55:32 Africa/Johannesburg] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 16:55:32 Africa/Johannesburg] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 17:00:25 Africa/Johannesburg] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[01-Oct-2018 17:00:25 Africa/Johannesburg] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/isoiotpv5yku/public_html/system/classes/mysql.php on line 350
+[20-Nov-2018 12:39:31 Africa/Johannesburg] PHP Fatal error:  Cannot redeclare Home_Index_Controller::quotationAction() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 53
+[20-Nov-2018 12:39:32 Africa/Johannesburg] PHP Fatal error:  Cannot redeclare Home_Index_Controller::quotationAction() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 53
+[04-Dec-2018 10:14:23 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined method Home_Index_Controller::getUserId() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:137
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 137
+[04-Dec-2018 10:15:14 Africa/Johannesburg] PHP Notice:  Undefined index: mlp_id in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 138
+[04-Dec-2018 10:15:14 Africa/Johannesburg] PHP Notice:  Undefined index: mlp_name in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 139
+[04-Dec-2018 10:15:16 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 10:16:57 Africa/Johannesburg] PHP Notice:  session_start(): A session had already been started - ignoring in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 110
+[04-Dec-2018 10:16:58 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 10:17:24 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 10:22:40 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 10:23:22 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 10:35:06 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 10:37:14 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 11:04:21 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 11:04:49 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 11:10:24 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 11:23:45 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 11:25:24 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 11:29:39 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 11:35:37 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 11:41:20 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:154
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 154
+[04-Dec-2018 11:43:34 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:155
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 155
+[04-Dec-2018 11:43:37 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:155
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 155
+[04-Dec-2018 12:04:08 Africa/Johannesburg] PHP Notice:  Array to string conversion in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 142
+[04-Dec-2018 12:04:08 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:156
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 12:06:39 Africa/Johannesburg] PHP Notice:  Undefined index: upload_file in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 142
+[04-Dec-2018 12:06:39 Africa/Johannesburg] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 142
+[04-Dec-2018 12:06:40 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:156
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 12:07:08 Africa/Johannesburg] PHP Notice:  Undefined index: upload_file in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 142
+[04-Dec-2018 12:07:08 Africa/Johannesburg] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 142
+[04-Dec-2018 12:07:09 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:156
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 12:09:24 Africa/Johannesburg] PHP Notice:  Undefined index: fileToUpload in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 142
+[04-Dec-2018 12:09:24 Africa/Johannesburg] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 142
+[04-Dec-2018 12:09:25 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:156
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 12:11:45 Africa/Johannesburg] PHP Notice:  Undefined index: name in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 142
+[04-Dec-2018 12:11:45 Africa/Johannesburg] PHP Notice:  Undefined index:  in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 142
+[04-Dec-2018 12:11:45 Africa/Johannesburg] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 142
+[04-Dec-2018 12:11:46 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:156
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 12:12:46 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:160
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 160
+[04-Dec-2018 12:28:18 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:160
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 160
+[04-Dec-2018 12:29:32 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:160
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 160
+[04-Dec-2018 12:30:56 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:160
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 160
+[04-Dec-2018 12:33:09 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:160
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 160
+[04-Dec-2018 12:39:16 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:160
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 160
+[04-Dec-2018 12:43:05 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Class 'ZendeskAPI' not found in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:138
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 138
+[04-Dec-2018 13:04:53 Africa/Johannesburg] PHP Warning:  Use of undefined constant type - assumed 'type' (this will throw an Error in a future version of PHP) in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 13:04:53 Africa/Johannesburg] PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 13:04:53 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:160
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 160
+[04-Dec-2018 13:05:41 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:160
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 160
+[04-Dec-2018 13:28:42 Africa/Johannesburg] PHP Notice:  Undefined index: upload_file in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 13:28:42 Africa/Johannesburg] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 13:28:43 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:185
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 185
+[04-Dec-2018 13:28:57 Africa/Johannesburg] PHP Notice:  Undefined index: upload_file in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 13:28:57 Africa/Johannesburg] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 13:28:58 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:185
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 185
+[04-Dec-2018 13:32:55 Africa/Johannesburg] PHP Notice:  Undefined index: upload_file in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 13:32:55 Africa/Johannesburg] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 13:32:56 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:185
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 185
+[04-Dec-2018 15:01:26 Africa/Johannesburg] PHP Notice:  Undefined index: upload_file in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 15:01:26 Africa/Johannesburg] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 15:01:27 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:189
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 189
+[04-Dec-2018 15:02:06 Africa/Johannesburg] PHP Notice:  Undefined index: upload_file in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 15:02:06 Africa/Johannesburg] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 15:02:08 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:189
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 189
+[04-Dec-2018 15:06:43 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected 'upload_file' (T_STRING) in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 149
+[04-Dec-2018 15:07:28 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected 'upload_file' (T_STRING) in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 149
+[04-Dec-2018 15:07:36 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected 'upload_file' (T_STRING) in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 149
+[04-Dec-2018 15:08:18 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected 'file' (T_STRING) in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 151
+[04-Dec-2018 15:09:14 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:09:51 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:17:16 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:17:58 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected 'file' (T_STRING) in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 152
+[04-Dec-2018 15:18:16 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected 'file' (T_STRING) in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 152
+[04-Dec-2018 15:18:51 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected 'file' (T_STRING) in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 152
+[04-Dec-2018 15:19:22 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected 'file' (T_STRING) in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 152
+[04-Dec-2018 15:20:13 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '*' in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 157
+[04-Dec-2018 15:21:17 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '*' in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 157
+[04-Dec-2018 15:22:08 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected 'file' (T_STRING) in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 151
+[04-Dec-2018 15:22:44 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '*' in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 157
+[04-Dec-2018 15:23:19 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '*' in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 157
+[04-Dec-2018 15:23:21 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected '*' in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 157
+[04-Dec-2018 15:23:56 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:27:59 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected ')' in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 15:28:44 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected ')' in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[04-Dec-2018 15:29:00 Africa/Johannesburg] PHP Notice:  Array to string conversion in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 149
+[04-Dec-2018 15:29:00 Africa/Johannesburg] PHP Notice:  Array to string conversion in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 152
+[04-Dec-2018 15:29:01 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:29:39 Africa/Johannesburg] PHP Notice:  Array to string conversion in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 149
+[04-Dec-2018 15:29:40 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:31:44 Africa/Johannesburg] PHP Notice:  Array to string conversion in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 152
+[04-Dec-2018 15:31:45 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:40:05 Africa/Johannesburg] PHP Notice:  Array to string conversion in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 152
+[04-Dec-2018 15:40:06 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:41:40 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:42:46 Africa/Johannesburg] PHP Notice:  Trying to get property 'upload' of non-object in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 15:42:46 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:45:27 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:45:45 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:46:16 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:46:41 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:47:07 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:48:03 Africa/Johannesburg] PHP Warning:  Use of undefined constant request - assumed 'request' (this will throw an Error in a future version of PHP) in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 15:48:03 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:48:26 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:49:33 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:50:52 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:51:05 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:52:52 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:168
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 168
+[04-Dec-2018 15:54:38 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:56:38 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 153
+[04-Dec-2018 15:56:57 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:57:24 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:57:51 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[04-Dec-2018 15:59:51 Africa/Johannesburg] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 155
+[04-Dec-2018 15:59:52 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:184
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 184
+[04-Dec-2018 16:00:19 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:184
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 184
+[04-Dec-2018 16:01:16 Africa/Johannesburg] PHP Warning:  Illegal string offset 'upload' in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 155
+[04-Dec-2018 16:01:17 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:184
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 184
+[04-Dec-2018 16:03:04 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:156
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 16:03:11 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:156
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 16:04:14 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:156
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 16:04:55 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:184
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 184
+[04-Dec-2018 16:06:10 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:185
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 185
+[04-Dec-2018 16:07:25 Africa/Johannesburg] PHP Notice:  Undefined property: stdClass::$upload in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 16:07:25 Africa/Johannesburg] PHP Notice:  Trying to get property 'token' of non-object in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 16:07:25 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:185
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 185
+[04-Dec-2018 16:08:20 Africa/Johannesburg] PHP Notice:  Undefined property: stdClass::$upload in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 16:08:21 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:185
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 185
+[04-Dec-2018 16:08:44 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:185
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 185
+[04-Dec-2018 16:10:23 Africa/Johannesburg] PHP Notice:  Undefined property: stdClass::$upload in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 16:10:23 Africa/Johannesburg] PHP Notice:  Trying to get property 'token' of non-object in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 16:10:24 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:188
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 188
+[04-Dec-2018 16:11:39 Africa/Johannesburg] PHP Notice:  Undefined property: stdClass::$upload in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 16:11:39 Africa/Johannesburg] PHP Notice:  Trying to get property 'token' of non-object in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[04-Dec-2018 16:11:40 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:188
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 188
+[04-Dec-2018 16:12:05 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:188
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 188
+[04-Dec-2018 16:13:50 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:188
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 188
+[04-Dec-2018 16:15:16 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:187
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 187
+[05-Dec-2018 08:25:46 Africa/Johannesburg] PHP Notice:  session_start(): A session had already been started - ignoring in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 110
+[05-Dec-2018 08:25:48 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:187
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 187
+[05-Dec-2018 08:27:53 Africa/Johannesburg] PHP Notice:  Undefined property: stdClass::$upload in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[05-Dec-2018 08:27:53 Africa/Johannesburg] PHP Notice:  Trying to get property 'token' of non-object in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[05-Dec-2018 08:27:54 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:187
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 187
+[05-Dec-2018 08:28:45 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:187
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 187
+[05-Dec-2018 11:44:07 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:188
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 188
+[05-Dec-2018 11:44:41 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:188
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 188
+[05-Dec-2018 11:45:19 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:188
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 188
+[05-Dec-2018 11:45:23 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:188
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 188
+[05-Dec-2018 11:46:18 Africa/Johannesburg] PHP Notice:  Undefined variable: json_decode in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[05-Dec-2018 11:46:18 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:183
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[05-Dec-2018 11:46:44 Africa/Johannesburg] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 183
+[05-Dec-2018 11:46:44 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:188
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 188
+[05-Dec-2018 11:47:25 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:188
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 188
+[05-Dec-2018 11:52:24 Africa/Johannesburg] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 182
+[05-Dec-2018 11:52:24 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:189
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 189
+[05-Dec-2018 11:52:54 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:189
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 189
+[05-Dec-2018 11:53:47 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:189
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 189
+[05-Dec-2018 11:55:11 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:189
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 189
+[05-Dec-2018 11:55:49 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:189
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 189
+[05-Dec-2018 11:57:27 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:189
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 189
+[05-Dec-2018 11:59:48 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:193
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 193
+[05-Dec-2018 12:00:38 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:193
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 193
+[05-Dec-2018 12:02:10 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 184
+[05-Dec-2018 12:02:26 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:194
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 194
+[05-Dec-2018 12:04:14 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:199
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 199
+[05-Dec-2018 12:04:39 Africa/Johannesburg] PHP Notice:  Undefined index: file in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 146
+[05-Dec-2018 12:04:39 Africa/Johannesburg] PHP Notice:  Undefined index: file in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 152
+[05-Dec-2018 12:04:40 Africa/Johannesburg] PHP Notice:  Undefined property: stdClass::$upload in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[05-Dec-2018 12:04:40 Africa/Johannesburg] PHP Notice:  Trying to get property 'token' of non-object in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 156
+[05-Dec-2018 12:04:40 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/isoiotpv5yku/public_html/application/controllers/home/index.php:199
+Stack trace:
+#0 /home/isoiotpv5yku/public_html/application/controllers/home/index.php(126): Home_Index_Controller->doCreateTicket()
+#1 /home/isoiotpv5yku/public_html/index.php(38): Home_Index_Controller->do_create_ticketAction()
+#2 {main}
+  thrown in /home/isoiotpv5yku/public_html/application/controllers/home/index.php on line 199
