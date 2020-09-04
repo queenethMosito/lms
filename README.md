@@ -36,3 +36,6 @@ which will point to your local machine for the host. The virtual host
 entry above will tell apache where to find the code for the incoming
 domain of lms.localhost.com
 
+4.Log in details
+Username:admin@admin.co.za
+Password:123456789
